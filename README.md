@@ -1,4 +1,3 @@
-# git-lab
- git add README.md 
-git commit -m "Enter a message here" 
-git push 
+# git-lad
+24106113@s.phenikaa-uni.edu.vn
+
